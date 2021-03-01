@@ -1,6 +1,7 @@
 # todo
 
 A new Flutter project.
+![](https://github.com/ram4ik/todoFlutter/blob/main/Screenshot%202021-03-01%20at%2011.20.22.png)
 
 ## Getting Started
 
